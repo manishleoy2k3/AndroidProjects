@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:id="@+id/imageViewCustom"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Medium Text"
+        android:id="@+id/labelitem"
+        android:layout_alignBottom="@+id/imageViewCustom"
+        android:layout_toRightOf="@+id/imageViewCustom"
+        android:layout_toEndOf="@+id/imageViewCustom" />
+</RelativeLayout><!-- From: file:/Users/manishkumar/AndroidProjects/projects/SlideMenuFramework/app/src/main/res/layout/imagelistlayout.xml -->

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.manish.horizontallistview.HorizontalListView
+        android:id="@+id/listviewlocal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_toLeftOf="@+id/frwdlocalbtn"
+        android:layout_toRightOf="@+id/prevlocalbtn" />
+
+
+</LinearLayout><!-- From: file:/Users/manishkumar/AndroidProjects/projects/SlideMenuFramework/app/src/main/res/layout/horizontallistactivity.xml -->
