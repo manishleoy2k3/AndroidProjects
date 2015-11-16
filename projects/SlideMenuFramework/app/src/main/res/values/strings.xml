@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SlideMenuFramework</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="delete_listitem">Delete</string>
+    <string name="detail_listitem">Detail</string>
+    <string name="internetnotprsent">Internet Connection Unavailable</string>
+    <string name="title_activity_location_helper_example">LocationHelperExample</string>
+
+    <string name="drawer_open_derived">Open</string>
+    <string name="drawer_close_derived">Close</string>
+
+</resources>

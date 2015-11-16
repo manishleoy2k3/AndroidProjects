@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="150dp"
+    android:background="@color/wallet_holo_blue_light">
+
+    <ImageView
+        android:layout_width="90dp"
+        android:layout_height="90dp"
+        android:id="@+id/imageNavigationHeader"
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="true"
+        android:background="@drawable/ic_launcher"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Medium Text"
+        android:id="@+id/viewNavigationHeader"
+        android:layout_marginLeft="10dp"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@+id/imageNavigationHeader"
+        android:layout_toEndOf="@+id/imageNavigationHeader" />
+</RelativeLayout><!-- From: file:/Users/manishkumar/AndroidProjects/projects/SlideMenuFramework/app/src/main/res/layout/header_navigation_drawer.xml -->
