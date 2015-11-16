@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ProjectModuleManager">
+<<<<<<< HEAD
+    <modules />
+=======
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SlideMenuFramework.iml" filepath="$PROJECT_DIR$/SlideMenuFramework.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
+>>>>>>> 52e5470292e2d39cb57b2de9f20a7603677ae5b5
   </component>
 </project>
